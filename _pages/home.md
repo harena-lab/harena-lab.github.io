@@ -23,7 +23,7 @@ feature_row:
     alt: "Jacinto"
     title: "Jacinto Platform"
     excerpt: "Data space for sharing, learning, discussing, and researching clinical cases embodies this VP-centered approach."
-    url: "https://jacinto.harena.org"
+    url: "/jacinto/"
     btn_label: "Learn More"
   - image_path: /assets/images/op-framework.png
     alt: "framework"
